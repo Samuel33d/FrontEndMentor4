@@ -60,7 +60,8 @@ p{
     background-color: var(--Softviolet);
     position: absolute;
     top: 0;
-    opacity: 0.5;
+    opacity: 0.9;
+    mix-blend-mode: multiply;
 }
 
 .card__info{
