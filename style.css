@@ -121,7 +121,7 @@ p{
 }
 
 
-@media (min-width: 500px) {
+@media (min-width: 640px) {
     
     .card__stats{
         gap: 1rem;
